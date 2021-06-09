@@ -1,0 +1,23 @@
+{
+  "name": "twenty_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twenty_one.js",
+  "scripts": {
+    "play": "node twenty_one.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katarinarosiak/twenty_one_game_console.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katarinarosiak/twenty_one_game_console/issues"
+  },
+  "homepage": "https://github.com/katarinarosiak/twenty_one_game_console#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
